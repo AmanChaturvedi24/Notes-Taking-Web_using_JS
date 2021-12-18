@@ -1,4 +1,4 @@
 ## Notes-Taking-Web_using_JS
 #### Image of the Notes-wpp
 
-![sample-img](https://user-images.githubusercontent.com/73428540/146648343-3a009b47-0125-4e90-97cb-2ababadb2ee2.jpeg)
+![image](https://user-images.githubusercontent.com/73428540/146648487-4f77960b-4c99-47b1-aceb-de42860d49aa.png)
