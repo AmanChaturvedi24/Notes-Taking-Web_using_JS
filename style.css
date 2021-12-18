@@ -1,0 +1,15 @@
+.heading1{
+    text-align: center;
+    
+   
+}
+.extramycss{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.heading1:hover{
+    text-shadow: rgba(114, 83, 53, 0.966) -1px 5px 8px;
+
+}
